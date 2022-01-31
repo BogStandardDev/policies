@@ -1,2 +1,4 @@
-# policies
-Repo for policies required by sites
+# Policies
+
+Policies needed by BogStandard sites and apps
+
